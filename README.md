@@ -1,3 +1,14 @@
+
+
+![WhatsApp Image 2025-08-16 at 8 13 21 PM](https://github.com/user-attachments/assets/4a3527c8-ca7d-472d-a34b-166e84c90abe)
+
+![WhatsApp Image 2025-08-16 at 8 13 22 PM](https://github.com/user-attachments/assets/a661b326-d6bf-4227-baf7-f59d287cf8ae)
+
+![WhatsApp Image 2025-08-16 at 8 13 23 PM](https://github.com/user-attachments/assets/fd2d0806-febf-41e9-ab99-9136df630700)
+
+
+![WhatsApp Image 2025-08-16 at 8 14 02 PM](https://github.com/user-attachments/assets/6096d881-94f6-4866-a0bc-8fb4dc629326)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
